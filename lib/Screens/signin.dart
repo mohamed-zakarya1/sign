@@ -40,7 +40,7 @@ class Signin extends StatelessWidget {
                   print("failed");
                 }
               },
-              child: const Text("Sign in"),
+              child: const Text("login"),
             ),
           ],
         ),
